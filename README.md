@@ -5,21 +5,21 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Wave" />
-  <span>Hello World, I'm <span style="color:#00F5FF;">Mahir Safarov</span></span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" alt="Wave" />
+  <span>Hello, I'm <span style="color:#00F5FF;">Mahir Safarov</span></span>
 </h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=55&lines=%E2%9A%A1+Full-Stack+Software+Engineer;%F0%9F%8F%9B%EF%B8%8F+Distributed+Systems+%26+Backend+Architect;%F0%9F%9A%80+.NET+10+%7C+C%23+13+%7C+Clean+Architecture;%F0%9F%A7%A9+Modular+Monoliths+%7C+DDD+%7C+CQRS;%F0%9F%9B%92+CommerceCore+%E2%80%94+234%2B+Automated+Tests;%E2%98%95+BerryRoasters+%E2%80%94+8+Microservices+%7C+RabbitMQ;%F0%9F%94%A5+DuneFlame+%E2%80%94+Live+Production+B2C+Platform"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=2200&color=00F5FF&center=true&vCenter=true&width=860&height=50&lines=Software+Engineer+%E2%80%A2+.NET+%26+Distributed+Systems;Architecting+Modular+Monoliths+%26+Event-Driven+Backends;Engineering+Production+E-Commerce+at+Scale;Deep+Focus+on+DDD%2C+CQRS+%26+Database+Internals"
   alt="Typing Animation"
 />
 
 <br/>
 
-<!-- Real-time Animated Cyber Terminal -->
+<!-- Real-time Animated Cyberpunk Terminal -->
 <img
   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="580"
+  width="520"
   alt="Cyberpunk Terminal Animation"
 />
 
@@ -34,7 +34,7 @@
 <br/><br/>
 
 <!-- Flowing Animated Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20px" alt="Animated Neon Divider"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="18px" alt="Animated Neon Divider"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-| 🚀 **117+**<br/>REST Endpoints | 🧪 **234+**<br/>Automated Tests | ⚡ **40%**<br/>DB Load Cut | ☕ **8**<br/>Microservices | 🌐 **Production**<br/>B2C E-Commerce |
+| 🚀 **117+ Production APIs**<br/>Live B2C Endpoints | 🧪 **234+ Automated Tests**<br/>xUnit v3 & Testcontainers | ⚡ **40% DB Load Cut**<br/>HybridCache & Profiling | ☕ **8 Microservices**<br/>RabbitMQ & YARP Gateway | 🏛️ **Modular Monoliths**<br/>PostgreSQL RLS & DDD |
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
@@ -55,56 +55,42 @@
 <!--                           ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="34" alt="Coder Animation"/> About Me
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Coder Animation"/> Systems & Engineering Focus
 
-> **Software Engineer with a systems-first mindset.**  
-> I design and engineer production-grade backends with a strong focus on **software architecture, testability, domain modeling, and high performance**. My primary domain is the **.NET ecosystem**, specializing in **Clean Architecture, Domain-Driven Design (DDD), CQRS, Modular Monoliths**, and **event-driven distributed systems**.
+I am a backend-focused **Software Engineer** specializing in the design and implementation of high-throughput, maintainable software within the **.NET ecosystem**. My engineering approach balances rigorous domain modeling with pragmatic infrastructure optimization.
 
-<div align="center">
+- 🏛️ **Architectural Discipline:** Designing strictly bounded **Modular Monoliths** and **Event-Driven Microservices** using Domain-Driven Design (DDD) and CQRS to ensure clear boundaries and maintainability under rapid scale.
+- ⚡ **Performance By Measurement:** Profiling memory, tracking execution pipelines, and tuning database latency. Authored custom query interceptors and multi-tiered caching strategies that reduced production DB roundtrips by ~40%.
+- 🔒 **Database-Level Invariants:** Leveraging advanced PostgreSQL capabilities — such as native **Row-Level Security (RLS)**, hierarchical `ltree` indexing, and transactional outboxes — to protect business rules at the persistence tier.
+- 🧪 **Deterministic Testing:** Ensuring continuous reliability through automated testing suites built with **xUnit v3** and real Docker dependencies via **Testcontainers**, completely removing flaky database mocks.
 
-```json
-{
-  "developer": "Mahir Safarov",
-  "focus": "High-Throughput Backends & Distributed Systems Architect",
-  "ecosystem": [".NET 10", "C# 13", "PostgreSQL 18", "Docker", "RabbitMQ", "Redis"],
-  "architectures": ["Modular Monolith", "Clean Architecture", "DDD", "CQRS", "Outbox Pattern"],
-  "engineering_mindset": {
-    "architecture": "Design for change & domain boundary isolation",
-    "performance": "Profile and measure before optimizing",
-    "testing": "Confidence via automated test suites (xUnit v3 & Testcontainers)"
-  }
-}
-```
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" alt="Divider"/>
-</div>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      FLAGSHIP PROJECTS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhVn31PP/giphy.gif" width="30" alt="Star Animation"/> Featured Projects
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhVn31PP/giphy.gif" width="28" alt="Star Animation"/> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛒 CommerceCore</h3>
-      <p align="center"><b>Enterprise Modular E-Commerce Backend</b></p>
+      <p align="center"><b>Enterprise Modular E-Commerce Platform</b></p>
       <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=00F5FF&center=true&vCenter=true&width=450&height=32&lines=Modular+Monolith+%7C+PostgreSQL+RLS;Zero-Reflection+Mediator+%7C+UUIDv7;234%2B+Automated+Tests+with+Testcontainers" alt="CommerceCore Features"/>
+        <img src="https://img.shields.io/badge/Architecture-Modular_Monolith_%7C_DDD_%7C_CQRS-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Architecture"/>
+        <img src="https://img.shields.io/badge/Security-PostgreSQL_RLS_%7C_UUIDv7-00F5FF?style=flat-square&labelColor=1E1B4B" alt="Security"/>
         <br/>
-        <img src="https://img.shields.io/badge/Status-🟢_Enterprise_Grade-success?style=for-the-badge&labelColor=1E1B4B" alt="Status"/>
-        <img src="https://img.shields.io/badge/Tests-234%2B_Passing-10B981?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1E1B4B" alt="Tests"/>
+        <img src="https://img.shields.io/badge/Tests-234%2B_Passing_%7C_xUnit_v3-10B981?style=flat-square&logo=checkmarx&logoColor=white&labelColor=1E1B4B" alt="Tests"/>
+        <img src="https://img.shields.io/badge/.NET_10-C%23_13-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=1E1B4B" alt=".NET 10"/>
       </div>
+      <br/>
       <ul>
-        <li><b>Stack:</b> .NET 10, C# 13/14, PostgreSQL 18.6, Redis, EF Core 10</li>
-        <li><b>Architecture:</b> Modular Monolith, Clean Architecture, DDD, CQRS</li>
-        <li><b>Security & Data:</b> Native PostgreSQL Row-Level Security (RLS), Least-Privilege Role, UUIDv7</li>
-        <li><b>High-Throughput:</b> Source-generated zero-reflection mediator, PostgreSQL <code>ltree</code> & GiST indexing, Transactional Outbox</li>
-        <li><b>Testing:</b> <b>234+ automated tests</b> running on real Docker testcontainers</li>
+        <li><b>Clean Architecture & DDD:</b> Strictly isolated domain rules with aggregate roots, value objects, and domain events.</li>
+        <li><b>Compile-Time Mediation:</b> Zero-reflection, source-generated mediator for lightning-fast command and query dispatching.</li>
+        <li><b>High-Performance Data Layer:</b> PostgreSQL 18.6 with hierarchical taxonomy trees (`ltree`), GiST indexes, and optimistic concurrency.</li>
+        <li><b>Production Security:</b> Native database-level Row-Level Security (RLS) enforcing tenant isolation with least-privilege roles.</li>
+        <li><b>Test Automation:</b> <b>234+ automated tests</b> running against real PostgreSQL containers via Testcontainers.</li>
       </ul>
       <div align="center">
         <a href="https://github.com/MahirSafar/CommerceCore">
@@ -116,19 +102,20 @@
       <h3 align="center">🔥 Dune & Flame Platform</h3>
       <p align="center"><b>Production B2C E-Commerce (Sharjah, UAE)</b></p>
       <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=00F5FF&center=true&vCenter=true&width=450&height=32&lines=Live+Production+Platform+%40+DuneFlame.com;117%2B+REST+Endpoints+%7C+34+Controllers;Custom+SlowQueryInterceptor+%2B+HybridCache" alt="DuneFlame Features"/>
-        <br/>
         <a href="https://duneflame.com">
-          <img src="https://img.shields.io/badge/Live_Store-Operating_Production-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=1E1B4B" alt="Live Store"/>
+          <img src="https://img.shields.io/badge/Status-🟢_Operating_in_Production-success?style=flat-square&labelColor=1E1B4B" alt="Status"/>
         </a>
-        <img src="https://img.shields.io/badge/Endpoints-117%2B_REST_APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1E1B4B" alt="Endpoints"/>
+        <img src="https://img.shields.io/badge/Scale-117%2B_REST_Endpoints-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Scale"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Performance--40%25_DB_Load-A855F7?style=flat-square&labelColor=1E1B4B" alt="Performance"/>
+        <img src="https://img.shields.io/badge/Cloud-GCP_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1E1B4B" alt="GCP"/>
       </div>
+      <br/>
       <ul>
-        <li><b>Scale:</b> 117+ REST Endpoints, 34 Controllers, 7 Modules, 29 Services</li>
-        <li><b>Performance:</b> Custom <code>SlowQueryInterceptor</code> (fixed 15 DB bottlenecks) & <code>HybridCache</code> (cut database roundtrips by ~40%)</li>
-        <li><b>Features:</b> Multi-currency, EN/AR localization, Stripe payments</li>
-        <li><b>Cloud & Deployment:</b> Google Cloud Run, Docker, GitHub Actions CI/CD</li>
-        <li><b>Live Store:</b> Active production platform operating at <code>duneflame.com</code></li>
+        <li><b>Enterprise Scale:</b> 117+ REST endpoints, 34 controllers, 7 application modules, and 29 infrastructure services.</li>
+        <li><b>Performance Engineering:</b> Engineered custom <code>SlowQueryInterceptor</code> (eliminated 15 bottlenecks) and <code>HybridCache</code> (cut database trips by ~40%).</li>
+        <li><b>Global Commerce:</b> Multi-currency transactions, dynamic user session lifecycles, and full English / Arabic localization.</li>
+        <li><b>Cloud Infrastructure:</b> Containerized with Docker, automated via GitHub Actions CI/CD, and deployed to Google Cloud Run.</li>
       </ul>
       <div align="center">
         <a href="https://duneflame.com">
@@ -147,14 +134,14 @@
     <td colspan="2" valign="top">
       <h3 align="center">☕ BerryRoasters — Event-Driven Microservices Platform</h3>
       <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=00F5FF&center=true&vCenter=true&width=600&height=32&lines=8+Autonomous+Microservices;YARP+API+Gateway+%2B+RabbitMQ+Event+Bus;PostgreSQL+Schema+Isolation" alt="BerryRoasters Features"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Microservices-8_Autonomous_Services-7C3AED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1B4B" alt="Services"/>
-        <img src="https://img.shields.io/badge/Gateway-YARP_Reverse_Proxy-00F5FF?style=for-the-badge&logo=dotnet&logoColor=0D1117&labelColor=1E1B4B" alt="Gateway"/>
-        <img src="https://img.shields.io/badge/Event_Bus-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=1E1B4B" alt="RabbitMQ"/>
+        <img src="https://img.shields.io/badge/Architecture-8_Autonomous_Services-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Services"/>
+        <img src="https://img.shields.io/badge/Gateway-YARP_Reverse_Proxy-00F5FF?style=flat-square&logo=dotnet&logoColor=0D1117&labelColor=1E1B4B" alt="Gateway"/>
+        <img src="https://img.shields.io/badge/Messaging-RabbitMQ_Event_Bus-FF6600?style=flat-square&logo=rabbitmq&logoColor=white&labelColor=1E1B4B" alt="RabbitMQ"/>
+        <img src="https://img.shields.io/badge/Database-Schema--Isolated_PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1E1B4B" alt="PostgreSQL"/>
       </div>
+      <br/>
       <p align="center">
-        Production-oriented microservices platform orchestrating complex B2B/B2C workflows with asynchronous RabbitMQ messaging, resilient retry policies, and isolated PostgreSQL schemas.
+        Production-ready distributed platform for specialty coffee commerce. Coordinates asynchronous order management, roasting schedules, and partner integration via <b>RabbitMQ event streams</b>, unified under a <b>YARP Reverse Proxy API Gateway</b> with isolated database schemas.
       </p>
       <div align="center">
         <a href="https://github.com/MahirSafar/BerryRoasters">
@@ -166,28 +153,26 @@
 </table>
 
 <details>
-<summary><b>📂 Explore More Repositories</b></summary>
+<summary><b>📂 Additional Repositories & Engineering Labs</b></summary>
 <br/>
 
-| Repository | Focus & Stack | Link |
+| Repository | Focus & Architectural Highlights | Link |
 |:---|:---|:---:|
-| **🌱 Greeny Backend** | Clean Architecture, C#, EF Core, ASP.NET Core REST API | [Repository](https://github.com/MahirSafar/Greeny---BackEnd) |
-| **🛍️ Molla Storefront** | Responsive e-commerce UI built with HTML5, CSS3, JavaScript | [Repository](https://github.com/MahirSafar/Molla---FrontEnd) |
-| **👥 HRManagementApp** | Enterprise HR workflow, employee lifecycle & management (.NET / C#) | [Repository](https://github.com/MahirSafar/HRManagementApp) |
-| **🍽️ RestaurantApp** | Reservation, menu management, and order tracking backend (.NET / C#) | [Repository](https://github.com/MahirSafar/RestaurantApp) |
-| **👻 Phantoms** | C# / .NET Project implementation | [Repository](https://github.com/MahirSafar/Phantoms) |
+| **🌱 Greeny Backend** | Clean Architecture backend adhering to strict separation of concerns in C# / ASP.NET Core | [Repository](https://github.com/MahirSafar/Greeny---BackEnd) |
+| **🛍️ Molla Storefront** | Responsive, client-side e-commerce web application engineered with semantic HTML5, modern CSS3, and JavaScript | [Repository](https://github.com/MahirSafar/Molla---FrontEnd) |
+| **👥 HRManagementApp** | Human resources domain application managing employee life cycles, departments, and payroll structures | [Repository](https://github.com/MahirSafar/HRManagementApp) |
+| **🍽️ RestaurantApp** | Reservation, menu management, and real-time ordering workflow API built with ASP.NET Core | [Repository](https://github.com/MahirSafar/RestaurantApp) |
+| **👻 Phantoms** | Exploratory system implementation in C# / .NET | [Repository](https://github.com/MahirSafar/Phantoms) |
 
 </details>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" alt="Divider"/>
-</div>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH UNIVERSE                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32" alt="Gears Animation"/> Technology Universe
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28" alt="Gears Animation"/> Technology Universe
 
 <div align="center">
 
@@ -205,47 +190,45 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" alt="Divider"/>
-</div>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   EXPERIENCE & MENTORSHIP                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" alt="Briefcase Animation"/> Professional Experience & Mentorship
+### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="26" alt="Briefcase Animation"/> Professional Experience & Mentorship
 
 ```markdown
 🔥 Full-Stack Developer — Dune & Flame (Sharjah, UAE · Remote)
-├── Architected production B2C e-commerce platform backend on .NET 10 & PostgreSQL
-├── Shipped 117+ REST endpoints, 34 controllers, and 29 infrastructure services
-├── Developed SlowQueryInterceptor (eliminated 15 critical DB bottlenecks in 30 days)
-└── Integrated in-memory HybridCache, reducing redundant database queries by ~40%
+├── Architected core backend infrastructure for live B2C e-commerce operations on .NET 10 & PostgreSQL
+├── Shipped 117+ production REST endpoints across 7 application modules and 29 infrastructure services
+├── Engineered SlowQueryInterceptor, pinpointing and eliminating 15 critical database bottlenecks
+└── Integrated in-memory HybridCache layer, cutting redundant database roundtrips by approximately 40%
 
 👨‍🏫 Programming Mentor — Code Academy (Baku, Azerbaijan)
-├── Mentoring upcoming developers in C#, ASP.NET Core, and modern Clean Architecture
-├── Conducting thorough code reviews, architecture critiques, and practical debugging labs
-└── Guiding students through domain modeling, test-driven logic, and API design patterns
+├── Mentoring software developers in C#, modern ASP.NET Core, and Clean Architecture best practices
+├── Conducting rigorous code reviews, architecture critiques, and practical performance debugging labs
+└── Guiding students through rich domain modeling, test-driven methodologies, and enterprise API design
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" alt="Divider"/>
-</div>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     METRICS & GITHUB STATS                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" alt="Graph Animation"/> GitHub Activity & Metrics
+### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="26" alt="Graph Animation"/> GitHub Activity & Metrics
 
 <div align="center">
 
+<!-- Animated Streak Stats with Tokyo Night Neon Fire -->
 <a href="https://github.com/MahirSafar">
-  <img src="https://streak-stats.demolab.com/?user=MahirSafar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00F5FF&currStreakLabel=00F5FF" width="90%" alt="Mahir's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MahirSafar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00F5FF&currStreakLabel=00F5FF" width="88%" alt="Mahir's GitHub Streak" />
 </a>
 
 <br/><br/>
 
+<!-- Stats & Top Languages Side-by-Side -->
 <a href="https://github.com/MahirSafar">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MahirSafar&show_icons=true&bg_color=0D1117&title_color=00F5FF&text_color=E2E8F0&icon_color=7C3AED&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="Mahir's GitHub Stats" />
 </a>
@@ -255,44 +238,43 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" alt="Divider"/>
-</div>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     EDUCATION & RECOGNITION                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/dhCx7EyeFLLnwCNxBQ/giphy.gif" width="30" alt="Trophy Animation"/> Honors & Education
+### <img src="https://media.giphy.com/media/dhCx7EyeFLLnwCNxBQ/giphy.gif" width="26" alt="Trophy Animation"/> Honors & Education
 
 <div align="center">
 
-| Milestone | Institution / Organization | Highlights |
+| Recognition | Institution / Organization | Highlights |
 |:---|:---|:---|
-| 🥇 **Hackathon Winner & Lead** | **Code8 Hackathon** (May 2026) | Led cross-functional team in rapid educational prototyping; recognized with **Official Gratitude from Ministry of Science and Education** |
+| 🥇 **Hackathon Winner & Lead** | **Code8 Hackathon** (May 2026) | Led cross-functional engineering team in rapid educational ecosystem prototyping; awarded **Official Gratitude from Ministry of Science and Education of Azerbaijan** |
 | 🎓 **Honors Graduate** | **Code Academy** (2022–2023 & 2025) | Full-Stack Web Development • Graduated with Honors (Nov 2025) |
-| ⚓ **Bachelor's Degree** | **Azerbaijan State Marine Academy (ADDA)** (2019–2023) | Navigation Faculty |
-| 🌐 **Languages** | **Azerbaijani** (Native) • **English** (B1 Intermediate) | International collaboration & technical communication |
+| ⚓ **Bachelor of Science** | **Azerbaijan State Marine Academy (ADDA)** (2019–2023) | Navigation Faculty |
+| 🌐 **Languages** | **Azerbaijani** (Native) • **English** (B1 Intermediate) | International technical communication and cross-border collaboration |
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" alt="Divider"/>
-</div>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      CURRENTLY BUILDING                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" alt="Rocket Animation"/> What I'm Focused On Right Now
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="26" alt="Rocket Animation"/> What I'm Focused On Right Now
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+and+scaling+CommerceCore...;Exploring+advanced+PostgreSQL+indexing+%26+partitioning...;Writing+high-confidence+automated+test+suites...;Refining+modular+monolith+boundaries...;Optimizing+distributed+event+pipelines..." alt="Currently Building" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2500&color=00F5FF&center=true&vCenter=true&width=820&height=45&lines=Architecting+CommerceCore+v2+modular+subsystems...;Exploring+advanced+PostgreSQL+partitioning+%26+ltree+indexing...;Refining+zero-reflection+source-generated+mediators...;Designing+resilient+event-driven+transactional+outbox+pipelines...;Writing+high-confidence+integration+tests+with+Testcontainers..."
+  alt="Currently Building"
+/>
 
 <br/><br/>
 
-### <img src="https://media.giphy.com/media/YRtLgsajXrz1FNJ6sj/giphy.gif" width="30" alt="Connect Animation"/> Let's Connect & Collaborate
+### <img src="https://media.giphy.com/media/YRtLgsajXrz1FNJ6sj/giphy.gif" width="26" alt="Connect Animation"/> Let's Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/GitHub-MahirSafar-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1E1B4B)](https://github.com/MahirSafar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir%20Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://linkedin.com/in/mahir-safarov)
@@ -301,10 +283,11 @@
 
 <br/>
 
-<sub>⚡ <b>Build with intent. Measure before optimizing. Automate everything possible.</b> ⚡</sub>
+<sub>⚡ <b>Design for change. Measure before optimizing. Automate with confidence.</b> ⚡</sub>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20px" alt="Animated Neon Divider"/>
+<!-- Final Flowing Animated Neon Laser Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="18px" alt="Animated Neon Divider"/>
 
 </div>
