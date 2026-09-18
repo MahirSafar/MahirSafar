@@ -1,0 +1,48 @@
+<svg width="100%" height="80" viewBox="0 0 1000 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13" />
+      <stop offset="50%" stop-color="#120e29" />
+      <stop offset="100%" stop-color="#08182b" />
+    </linearGradient>
+
+    <linearGradient id="footerBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF">
+        <animate attributeName="stop-color" values="#00F5FF;#7C3AED;#10B981;#00F5FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#10B981;#00F5FF;#7C3AED" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00F5FF">
+        <animate attributeName="stop-color" values="#00F5FF;#7C3AED;#10B981;#00F5FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="footerTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF">
+        <animate attributeName="stop-color" values="#00F5FF;#A78BFA;#10B981;#00F5FF" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#10B981;#00F5FF;#A78BFA" dur="7s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .footer-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+  </style>
+
+  <rect x="2" y="2" width="996" height="76" rx="12" fill="url(#footerBg)" stroke="url(#footerBorder)" stroke-width="1.5" />
+
+  <text x="500" y="38" text-anchor="middle" fill="url(#footerTextGrad)" class="footer-text">
+    ⚡ DESIGN FOR CHANGE • MEASURE BEFORE OPTIMIZING • AUTOMATE WITH CONFIDENCE ⚡
+  </text>
+  <text x="500" y="58" text-anchor="middle" fill="#64748B" font-family="'Fira Code', monospace" font-size="11">
+    Crafted with precision for high-scale distributed systems • Mahir Safarov © 2026
+  </text>
+</svg>

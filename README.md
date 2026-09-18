@@ -1,31 +1,35 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    DYNAMIC HERO BANNER                        -->
+<!--               CUSTOM ANIMATED NEON CYBER BANNER               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:1E1B4B,60:6366F1,100:00F5FF&height=220&section=header&text=Mahir%20Safarov&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20.NET%20%26%20Distributed%20Systems&descSize=17&descAlignY=62&descColor=00F5FF&animation=fadeIn" width="100%" alt="Mahir Safarov Banner"/>
-
-<!-- Smooth Typing Animation (Non-flickering, perfect pace) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=5000&pause=3000&color=00F5FF&center=true&vCenter=true&width=860&height=45&lines=Architecting+High-Throughput+.NET+Backends;Modular+Monoliths+%E2%80%A2+DDD+%E2%80%A2+CQRS+%E2%80%A2+Zero-Reflection;117%2B+Production+APIs+%E2%80%A2+234%2B+Automated+Tests;Shipping+DuneFlame+%E2%80%94+Live+E-Commerce+in+Production+%F0%9F%94%A5" alt="Typing Animation"/>
+<a href="https://github.com/MahirSafar">
+  <img src="https://raw.githubusercontent.com/MahirSafar/MahirSafar/main/header.svg" width="100%" alt="Mahir Safarov — Software Engineer Banner"/>
+</a>
 
 <br/>
 
-<!-- Smooth Holographic Terminal -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="460" alt="Cyberpunk Terminal Animation"/>
+<!-- Smooth Typing Animation (Curated pace, zero flicker) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4800&pause=2800&color=00F5FF&center=true&vCenter=true&width=880&height=45&lines=Architecting+High-Throughput+.NET+Modular+Backends;Domain-Driven+Design+(DDD)+%E2%80%A2+CQRS+%E2%80%A2+Zero-Reflection;117%2B+Production+APIs+%E2%80%A2+234%2B+Automated+Tests;PostgreSQL+Row-Level+Security+(RLS)+%E2%80%A2+UUIDv7;Shipping+DuneFlame+%E2%80%94+Live+E-Commerce+in+Production+%F0%9F%94%A5" alt="Typing Animation"/>
+
+<br/>
+
+<!-- Holographic Cyberpunk Dev Terminal Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" alt="Cyberpunk Terminal Animation"/>
 
 <br/><br/>
 
 <!-- Modern Badge Navigation Bar -->
 [![GitHub](https://img.shields.io/badge/GitHub-MahirSafar-0B0F19?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1E1B4B)](https://github.com/MahirSafar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)]([https://linkedin.com/in/mahir-safarov](https://www.linkedin.com/in/mahir-safarov-a468711b5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://www.linkedin.com/in/mahir-safarov-a468711b5/)
 [![Live Store](https://img.shields.io/badge/Live_Store-DuneFlame.com-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=0B0F19&labelColor=1E1B4B)](https://duneflame.com)
 [![Email](https://img.shields.io/badge/Email-mahirsafarovv%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B)](mailto:mahirsafarovv@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=MahirSafar&style=for-the-badge&color=7C3AED&labelColor=0B0F19&label=PROFILE+VIEWS)](https://github.com/MahirSafar)
 
 <br/><br/>
 
-<!-- Smooth Gradient Divider (Clean SVG, No Rapid Flickering) -->
+<!-- Smooth Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,25:7C3AED,50:00F5FF,75:7C3AED,100:0B0F19&height=3&section=header" width="100%" alt="Divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -66,7 +70,7 @@
 <!--                      FLAGSHIP PROJECTS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhVn31PP/giphy.gif" width="24" alt="Star"/> Flagship Architectures & Live Projects
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhVn31PP/giphy.gif" width="24" alt="Star"/> Flagship Architectures & Live Deployments
 
 <table>
   <tr>
@@ -82,14 +86,14 @@
       </div>
       <br/>
       <ul>
-        <li><b>Domain Boundaries:</b> Pure DDD with aggregate roots, value objects, and domain events.</li>
-        <li><b>Zero Reflection:</b> Compile-time source-generated mediator & transactional outbox pipeline.</li>
-        <li><b>Database Internals:</b> PostgreSQL Row-Level Security, hierarchical <code>ltree</code>, and GiST indexes.</li>
-        <li><b>High Confidence:</b> 234+ automated tests on real Docker testcontainers.</li>
+        <li><b>Domain Boundaries:</b> Pure DDD with aggregate roots, value objects, and transactional outbox.</li>
+        <li><b>Zero Reflection:</b> Compile-time source-generated mediator for maximum performance.</li>
+        <li><b>Database Internals:</b> PostgreSQL Row-Level Security, hierarchical <code>ltree</code>, GiST indexing.</li>
+        <li><b>Testing Suite:</b> 234+ automated tests running on real Docker testcontainers.</li>
       </ul>
       <div align="center">
         <a href="https://github.com/MahirSafar/CommerceCore">
-          <img src="https://img.shields.io/badge/Explore_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=0B0F19&labelColor=1E1B4B" alt="Explore CommerceCore"/>
+          <img src="https://img.shields.io/badge/Explore_CommerceCore-00F5FF?style=for-the-badge&logo=github&logoColor=0B0F19&labelColor=1E1B4B" alt="Explore CommerceCore"/>
         </a>
       </div>
     </td>
@@ -109,8 +113,8 @@
       <ul>
         <li><b>Production Scale:</b> 117+ REST APIs across 7 decoupled modules and 29 domain services.</li>
         <li><b>Performance Optimization:</b> Custom <code>SlowQueryInterceptor</code> & <code>HybridCache</code> cut DB roundtrips by ~40%.</li>
-        <li><b>Global Commerce:</b> Multi-currency, EN/AR localization, and Stripe payments.</li>
-        <li><b>Cloud Native:</b> Fully containerized and deployed to Google Cloud Run via CI/CD.</li>
+        <li><b>Global Commerce:</b> Multi-currency, EN/AR localization, and Stripe integration.</li>
+        <li><b>Cloud Native:</b> Containerized with Docker and deployed to Google Cloud Run via CI/CD.</li>
       </ul>
       <div align="center">
         <a href="https://duneflame.com">
@@ -278,17 +282,13 @@
 ### <img src="https://media.giphy.com/media/YRtLgsajXrz1FNJ6sj/giphy.gif" width="24" alt="Connect"/> Let's Build Together
 
 [![GitHub](https://img.shields.io/badge/GitHub-MahirSafar-0B0F19?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1E1B4B)](https://github.com/MahirSafar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://linkedin.com/in/mahir-safarov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://www.linkedin.com/in/mahir-safarov-a468711b5/)
 [![Live Store](https://img.shields.io/badge/Live_Store-DuneFlame.com-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=0B0F19&labelColor=1E1B4B)](https://duneflame.com)
 [![Email](https://img.shields.io/badge/Email-mahirsafarovv%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B)](mailto:mahirsafarovv@gmail.com)
 
 <br/><br/>
 
-<sub>⚡ <b>Design for change. Measure before optimizing. Automate with confidence.</b> ⚡</sub>
-
-<br/><br/>
-
-<!-- Matching Smooth Wave Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:6366F1,70:1E1B4B,100:0B0F19&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner"/>
+<!-- Matching Animated Neon Cyber Footer Banner -->
+<img src="https://raw.githubusercontent.com/MahirSafar/MahirSafar/main/footer.svg" width="100%" alt="Mahir Safarov Footer"/>
 
 </div>
