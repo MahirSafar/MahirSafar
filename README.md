@@ -18,7 +18,7 @@
 
 <!-- Modern Badge Navigation Bar -->
 [![GitHub](https://img.shields.io/badge/GitHub-MahirSafar-0B0F19?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=1E1B4B)](https://github.com/MahirSafar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://linkedin.com/in/mahir-safarov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Safarov-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)]([https://linkedin.com/in/mahir-safarov](https://www.linkedin.com/in/mahir-safarov-a468711b5/))
 [![Live Store](https://img.shields.io/badge/Live_Store-DuneFlame.com-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=0B0F19&labelColor=1E1B4B)](https://duneflame.com)
 [![Email](https://img.shields.io/badge/Email-mahirsafarovv%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B)](mailto:mahirsafarovv@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=MahirSafar&style=for-the-badge&color=7C3AED&labelColor=0B0F19&label=PROFILE+VIEWS)](https://github.com/MahirSafar)
